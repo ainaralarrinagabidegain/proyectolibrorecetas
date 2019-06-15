@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+.Recipe{color:blue;}
+        </style>
+    </head>
+    <body>
+       
+        <h1>My Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="https://www.recetasderechupete.com/receta-de-lasana-de-carne/223/">Lasagna Recipe</a></li>
+        </ol>
+        
+        <h2 id="Recipe">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 55min</li>
+            <li>Serves: 6 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>Onions</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Red Pepper</td>
+                   <td>2</td>
+                </tr>
+                <tr>
+                    <td>Carrots</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Bacon</td>
+                    <td>150g</td>
+                </tr>
+                <tr>
+                    <td>Meat</td>
+                    <td>500g</td>
+                </tr>
+                <tr>
+                    <td>Lasagna pasta</td>
+                    <td>12</td>
+                </tr>
+                <tr>
+                    <td>Cheese</td>
+                    <td>200g</td>
+                </tr>
+                <tr>
+                    <td>Oil</td>
+                    <td>100ml</td>
+                </tr>
+                <tr>
+                    <td>Tomatoes</td>
+                    <td>250g</td>
+                </tr>
+                <tr>
+                    <td>White wine</td>
+                    <td>250ml</td>
+                </tr>
+                <tr>
+                    <td>Bechamel</td>
+                    <td>300ml</td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Elaboration:</strong> Fill the container with different layers of the ingredients. You can do them in any order.
+</p>
+        
+    <p><em>Source: <a href="https://www.recetasderechupete.com/">Recipes website</a></em></p>
+    
+    </body>
+</html>
